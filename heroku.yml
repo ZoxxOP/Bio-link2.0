@@ -1,0 +1,6 @@
+build:
+  docker:
+    worker: Dockerfile
+run:
+  mrroy: python3 -m Biolink
+
