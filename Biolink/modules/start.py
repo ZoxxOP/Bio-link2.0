@@ -25,7 +25,7 @@ START_BUTTONS = InlineKeyboardMarkup([
         InlineKeyboardButton("• ʟᴏɢs •", url="https://t.me/AnanyaLogs"),
         InlineKeyboardButton("• ᴜᴘᴅᴀᴛᴇ •", url="https://t.me/AnanyaBots")
     ],
-    [InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url="https://t.me/ThePrimeCoder")]
+    [InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url="https://t.me/WTF_NoHope")]
 ])
 
 PRIVATE_START_BUTTON = InlineKeyboardMarkup([
